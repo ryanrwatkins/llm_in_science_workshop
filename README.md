@@ -8,12 +8,12 @@
 | 10:45 AM | Break                                   |
 | 11:00 AM | Prompts & parameters                    |
 | 12:00 PM | Lunch                                   |
-| 1:00 PM  | Structured outputs                      |
-| 2:00 PM  | Hands-on                                |
+| 1:00 PM  | Use cases with Zoe #1                   |
+| 2:00 PM  | Structured Outputs                      |
 | 2:45 PM  | Break                                   |
-| 3:00 PM  | Evaluating model outputs                |
-| 4:00 PM  | Local models                            |
-| 4:30 PM  | Use cases with Zoe #1                   |
+| 3:00 PM  | Hands on                                |
+| 4:00 PM  | Evaluating model outputs                |
+| 4:30 PM  | Local models                            |
 |          |                                         |
 | DAY TWO  |                                         |
 | 9:00 AM  | HPC and On Demand                       |
