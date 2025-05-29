@@ -1,3 +1,13 @@
+#In Cerberus HPC > VS Code > Terminal
+#ml python3/3.12.9
+#ml ollama/0.6.8
+#ollama serve &
+#python3 -m venv ollama_venv  #(could create new one, or use previous)
+#source ollama_venv/bin/activate
+#pip install requests numpy ollama
+
+
+
 import numpy as np
 import ollama
 import os
